@@ -1,0 +1,1 @@
+# hamoye-git-class
